@@ -1,1 +1,3 @@
-See the docs directory or http://www.cloudata.org
+This repository is testing repository. 
+home: http://www.cloudata.org
+origin repository: https://github.com/gruter/cloudata
